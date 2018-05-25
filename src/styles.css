@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: 'Droid Serif', Georgia, Times, serif;
+  font-size: 18px;
+}
+
+p {
+  font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+}
+
+
+.display__none {
+  display: none;
+}
